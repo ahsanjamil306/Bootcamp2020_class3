@@ -9,7 +9,7 @@ function App() {
    <div className="App"> 
    <Child name="AHSAN JAMIL" designation="Software Engineer"/>
    <hr/>
-   <Child name="SAAd MURTAZA" designation="PETROLEUM ENGINEER"/>
+   <Child name="SAAD MURTAZA" designation="PETROLEUM ENGINEER"/>
    <hr/>
    
    </div>
