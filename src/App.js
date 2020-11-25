@@ -7,7 +7,7 @@ function App() {
  return (
    
    <div className="App"> 
-   <Child name="AHSAN JAMIL SHEIKH deedat" designation="Software Engineer"/>
+   <Child name="AHSAN JAMIL" designation="Software Engineer"/>
    <hr/>
    <Child name="SAAd MURTAZA" designation="PETROLEUM ENGINEER"/>
    <hr/>
